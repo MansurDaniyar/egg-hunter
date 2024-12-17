@@ -1,0 +1,28 @@
+.app {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    height: 100vh;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .egg-button {
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+  
+  .egg-button:hover {
+    transform: scale(1.1);
+  }
+  
